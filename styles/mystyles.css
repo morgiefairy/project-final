@@ -1,0 +1,25 @@
+/*Header for name*/
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    
+    
+}
+
+h1{
+    font-family:serif;
+    font-size:70px;
+}
+
+
+h2{
+    font-size: 40;
+    color: rgb(3, 73, 3);
+    text-decoration: underline rgb(3, 73, 3);
+}
+
+li{
+    font-size: 20px ;
+}
+
+    

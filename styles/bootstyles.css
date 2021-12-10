@@ -1,0 +1,28 @@
+.common {
+    border: solid 2px black;
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 115;
+    left: 5px;
+    right: 5px;
+}
+
+.footer {
+    position:fixed;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+   
+
+}
